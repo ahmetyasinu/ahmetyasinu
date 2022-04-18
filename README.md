@@ -39,16 +39,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
   </a>
   
-  <!--java-->
-  <a href="https://www.w3schools.com/java/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   
-  </a>  
  
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
+  
+  <!--java-->
+  <a href="https://www.w3schools.com/java/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  
+  </a>  
   
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank"> 
