@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Yasin UZUN</h1>
 <h3 align="center">A Software Developer from Istanbul, Turkey.</h3>
 
-
-- 🌱 I’m currently learning **Javascript - Python - Java Spring Boot**
-
-
-- 🤝 I’m looking for help with **learning Java Spring Boot**
-
-- 💬 Ask me about ** JS and pretty much anything you want to ask.**
+- 💬 Ask me about ** anything you want to ask.**
 - ☑️ My Repos -> (https://github.com/ahmetyasinu)
 <h3 align="left">
   Connect with me:
@@ -34,18 +28,14 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
+   <!-- Bootstrap -->
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
   <!-- Javascript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
   </a>
-  
-  
- 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  
   <!--java-->
   <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
