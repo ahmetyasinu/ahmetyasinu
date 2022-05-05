@@ -41,6 +41,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   
   </a>  
+   <!--python-->
+  <a href="https://www.w3schools.com/python/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+  
+  </a>  
   
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank"> 
